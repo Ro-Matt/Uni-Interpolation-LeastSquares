@@ -1,4 +1,10 @@
 # Uni-Interpolation-LeastSquares
+# What I Learned
+* First exposure to Python 3.9
+* Applying picewise interpolation
+* Applying global linear least squares approximation
+
+
 
 # Getting Started
 
